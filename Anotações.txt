@@ -1,0 +1,13 @@
+Diagrama de Classes
+
+- representação: tabela com os elementos "Nome", "Atributos" e "Métodos";
+
+"Métodos" nos digramas de classe também podem ser chamados de "operações";
+
+Associação de classes: qundo há uma relação entre uma classe e outra, ou quaando há um "autorrelacionamento" em uma única classe ;
+
+O autorrelacionamento próprio do modelo ER é aqui chamado de Associação unitária, reflexivas ou recursivas;
+
+
+
+
